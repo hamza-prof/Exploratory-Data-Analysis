@@ -1,0 +1,19 @@
+Git Commands:
+git config --global user.name "Hamza"
+git config --global user.email hamzahamid.bscsses21@iba-suk.edu.pk
+
+
+Adding new Files in Repository
+git init
+git add README.md
+git status
+git commit -m "Changes"
+git branch --> For change master branch to main branch we use 
+git branch -m main
+git remote add origin "Repository link"
+git remote -v  ---> Checking the fetching and push addresses
+git push origin main
+git restore 'filename'
+
+
+Adding existing file in repository
