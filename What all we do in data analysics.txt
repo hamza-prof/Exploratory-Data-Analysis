@@ -1,0 +1,5 @@
+What all we do in data analysics
+1. Missing Value
+2. Explore about Numerical variables
+3. Explore about categorical variables
+4. finding relationship between features
