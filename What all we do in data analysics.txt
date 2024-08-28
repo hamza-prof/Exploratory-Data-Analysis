@@ -3,3 +3,12 @@ What all we do in data analysics
 2. Explore about Numerical variables
 3. Explore about categorical variables
 4. finding relationship between features
+
+
+
+Data Science Project Life Cycle
+1. Data Analysis
+2. Feature Enginnering
+3. Feature Selection
+4. Model Building 
+5. Model Deployment
